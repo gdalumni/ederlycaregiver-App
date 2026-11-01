@@ -1,5 +1,4 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi v1.2.0</h1>
-<h4 align="center">华申慧养老-app端</h4>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">华申慧养老-app端</h1>
 
 
 ## APP简介
