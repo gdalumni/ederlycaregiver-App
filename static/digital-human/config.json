@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "sourceImage": "avatar-base.png",
+  "coordinateSystem": {
+    "space": "source-image-pixels",
+    "referenceWidth": 1024,
+    "referenceHeight": 1024,
+    "note": "底图和嘴型都使用 avatar-base.png 的像素坐标。不使用屏幕坐标。"
+  },
+  "mouth": {
+    "centerX": 505,
+    "centerY": 168,
+    "width": 88,
+    "height":38,
+    "scale": 0.56
+  },
+  "visemes": {
+    "rest": {
+      "file": "mouth/rest.png",
+      "canvasWidth": 300,
+      "canvasHeight": 144,
+      "contentX": 118,
+      "contentY": 70.1,
+      "offsetX": 2,
+      "offsetY": 0.2
+    },
+    "closed": {
+      "file": "mouth/closed.png",
+      "canvasWidth": 300,
+      "canvasHeight": 144,
+      "contentX": 150,
+      "contentY": 72.1,
+      "offsetX": 8,
+      "offsetY": 0
+    },
+    "open": {
+      "file": "mouth/open.png",
+      "canvasWidth": 300,
+      "canvasHeight": 144,
+      "contentX": 138,
+      "contentY": 72.1,
+      "offsetX": 7,
+      "offsetY": 0
+    },
+    "wide": {
+      "file": "mouth/wide.png",
+      "canvasWidth": 300,
+      "canvasHeight": 144,
+      "contentX": 138,
+      "contentY": 72.1,
+      "offsetX": 6,
+      "offsetY": 0
+    },
+    "round": {
+      "file": "mouth/round.png",
+      "canvasWidth": 300,
+      "canvasHeight": 144,
+      "contentX": 135,
+      "contentY": 72.1,
+      "offsetX": 5,
+      "offsetY": 0
+    },
+    "narrow": {
+      "file": "mouth/narrow.png",
+      "canvasWidth": 300,
+      "canvasHeight": 144,
+      "contentX": 135,
+      "contentY": 72.1,
+      "offsetX": 5,
+      "offsetY": 0
+    }
+  }
+}
